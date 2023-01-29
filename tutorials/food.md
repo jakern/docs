@@ -226,7 +226,7 @@ When you purchase with scan mode it will consume one of the stock quantity unit.
 
 ## Shopping list
 
-Shopping list, is what it sounds like, a Grocy connected shopping list. When starting a new instal you automatically have one shopping list called shopping list but you can create more if you wish.
+Shopping list, is what it sounds like, a Grocy connected shopping list. When starting a new install you automatically have one shopping list called shopping list but you can create more if you wish.
 
 - **Add item:** Adds items to the shopping list by name or barcode.
 - **Clear list:** Clears the shopping list.
